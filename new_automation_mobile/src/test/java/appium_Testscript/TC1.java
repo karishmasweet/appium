@@ -8,7 +8,7 @@ import appium_page_factory.Detail_Page_Firstscreen;
 
 public class TC1 extends Base2
 {
-	
+	//TC1 is add two product in the cart
 		@Test
 		 public void firstscreen() throws InterruptedException
 		 {
