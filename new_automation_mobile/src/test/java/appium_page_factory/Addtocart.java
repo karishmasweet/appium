@@ -34,7 +34,7 @@ public class Addtocart
 		fistproduct.click();
 		secondproduct.click();
 		cardmenu.click();
-		
+		Thread.sleep(5000);
 		
 		
 	}

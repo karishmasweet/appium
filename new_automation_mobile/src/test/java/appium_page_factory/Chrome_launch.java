@@ -31,7 +31,7 @@ public class Chrome_launch
 	
 	public void execute2() throws InterruptedException
 	{
-		Thread.sleep(500);
+		Thread.sleep(5000);
 		proceedbutton.click();
 		Thread.sleep(5000);
 		driver.context("WEBVIEW_com.androidsample.generalstore");
