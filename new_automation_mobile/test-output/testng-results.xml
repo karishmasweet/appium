@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-18T00:27:16 IST" name="Default suite" finished-at="2023-01-18T00:27:54 IST" duration-ms="37948">
+    <groups>
+    </groups>
+    <test started-at="2023-01-18T00:27:16 IST" name="Default test" finished-at="2023-01-18T00:27:54 IST" duration-ms="37948">
+      <class name="appium_Testscript.TC1">
+        <test-method is-config="true" signature="init()[pri:0, instance:appium_Testscript.TC1@28eaa59a]" started-at="2023-01-18T00:27:16 IST" name="init" finished-at="2023-01-18T00:27:33 IST" duration-ms="17416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="firstscreen()[pri:0, instance:appium_Testscript.TC1@28eaa59a]" started-at="2023-01-18T00:27:33 IST" name="firstscreen" finished-at="2023-01-18T00:27:54 IST" duration-ms="20434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstscreen -->
+      </class> <!-- appium_Testscript.TC1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
